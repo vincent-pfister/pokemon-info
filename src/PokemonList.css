@@ -1,0 +1,16 @@
+.pokemon-pre {
+  display: flex;
+}
+
+.pokemon-pre div {
+  min-height: 80px;
+  min-width: 120px;
+  margin: 10px;
+  width: 200px;
+  background-color: #efefef;
+}
+
+.pokemon-pre img {
+  min-height: 80px;
+  margin: 10px;
+}
